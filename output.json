@@ -1,0 +1,2210 @@
+{
+    "ted_accuracies": [
+        0.5714285714285714,
+        0.7142857142857143,
+        1.0,
+        0.8333333333333334,
+        0.5714285714285714,
+        1.0,
+        0.75,
+        1.0,
+        0.33333333333333337,
+        0.8333333333333334,
+        1.0,
+        0.8333333333333334,
+        0.5714285714285714,
+        0.19999999999999996,
+        0.33333333333333337,
+        0.5,
+        1.0,
+        0.8571428571428572,
+        0.16666666666666663,
+        0.4285714285714286,
+        0.33333333333333337,
+        0.8571428571428572,
+        0.2857142857142857,
+        0.8571428571428572,
+        1.0,
+        0,
+        0.16666666666666663,
+        0.7142857142857143,
+        0.7142857142857143,
+        0.8333333333333334,
+        0.8333333333333334,
+        0.4285714285714286,
+        1.0,
+        0.4285714285714286,
+        0.875,
+        0.875,
+        0.6666666666666667,
+        1.0,
+        1.0,
+        0.4285714285714286,
+        0.8571428571428572,
+        0.375,
+        0.5,
+        0.8571428571428572,
+        1.0,
+        0.7142857142857143,
+        0.4285714285714286,
+        0.5714285714285714,
+        0.7142857142857143,
+        0.375,
+        1.0,
+        1.0,
+        0.2857142857142857,
+        0.4285714285714286,
+        0.33333333333333337,
+        1.0,
+        0.75,
+        0.4285714285714286,
+        0.33333333333333337,
+        0.4285714285714286,
+        1.0,
+        0.7142857142857143,
+        0.5,
+        0.75,
+        1.0,
+        1.0,
+        0.5714285714285714,
+        0.8333333333333334,
+        1.0,
+        0.5714285714285714,
+        0.8571428571428572,
+        0.625,
+        0.6666666666666667,
+        0.8571428571428572,
+        0.5,
+        0.7142857142857143,
+        0.4285714285714286,
+        0.2857142857142857,
+        0.5,
+        0.8571428571428572,
+        0.5714285714285714,
+        0.5714285714285714,
+        0.8571428571428572,
+        0.4285714285714286,
+        0.33333333333333337,
+        0.7142857142857143,
+        0.6666666666666667,
+        0.625,
+        0.8571428571428572,
+        0.8333333333333334,
+        0.75,
+        0.2857142857142857,
+        0.5,
+        0.8333333333333334,
+        0.2222222222222222,
+        0.33333333333333337,
+        1.0,
+        0.625,
+        1.0,
+        0.2857142857142857,
+        0,
+        0.5714285714285714,
+        0.5714285714285714,
+        1.0,
+        0.875,
+        0.8571428571428572,
+        0.5,
+        0.8333333333333334,
+        0.33333333333333337,
+        0.4285714285714286,
+        0.5,
+        0.5714285714285714,
+        0.5714285714285714,
+        1.0,
+        1.0,
+        0.8571428571428572,
+        0.875,
+        0.7142857142857143,
+        1.0,
+        0.75,
+        0.6666666666666667,
+        0.33333333333333337,
+        0.7142857142857143,
+        0.7142857142857143,
+        0.5,
+        0,
+        0.8571428571428572,
+        0.33333333333333337,
+        0.4285714285714286,
+        0.8571428571428572,
+        0.5714285714285714,
+        1.0,
+        0.6666666666666667,
+        0.2857142857142857,
+        0.375,
+        0.33333333333333337,
+        0.6666666666666667,
+        1.0,
+        0.2857142857142857,
+        0.5714285714285714,
+        0.25,
+        0.8333333333333334,
+        1.0,
+        0.7142857142857143,
+        0.625,
+        0.875,
+        0.625,
+        0.2857142857142857,
+        0.6666666666666667,
+        0,
+        1.0,
+        1.0,
+        0.4444444444444444,
+        0.8571428571428572,
+        0.75,
+        0.8888888888888888,
+        1.0,
+        1.0,
+        0.5,
+        0.16666666666666663,
+        0.5714285714285714,
+        0.1428571428571429,
+        0.16666666666666663,
+        0.7142857142857143,
+        0.875,
+        1.0,
+        0.33333333333333337,
+        0.625,
+        0.16666666666666663,
+        1.0,
+        1.0,
+        0.5,
+        1.0,
+        0,
+        1.0,
+        0.5555555555555556,
+        1.0,
+        0.33333333333333337,
+        0.875,
+        0.4285714285714286,
+        0.19999999999999996,
+        0.16666666666666663,
+        0.875,
+        0.75,
+        1.0,
+        0.7777777777777778,
+        0.875,
+        1.0,
+        0.16666666666666663,
+        0.7142857142857143,
+        0.30000000000000004,
+        0.625,
+        0.16666666666666663,
+        0.75,
+        0.33333333333333337,
+        0.5714285714285714,
+        1.0,
+        1.0,
+        0.75,
+        0.5714285714285714
+    ],
+    "ted_accuracy": 0.6451765873015873,
+    "f1_accuracy": 0.2,
+    "predictions": [
+        {
+            "width": {
+                "inch": "2.5"
+            }
+        },
+        {
+            "height": {
+                "millimetre": "12.0"
+            }
+        },
+        {
+            "height": {
+                "millimetre": "350.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "9.0"
+            }
+        },
+        {
+            "item_weight": {
+                "kilogram": "2.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "6.3"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "100"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "19.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "POS.0"
+            }
+        },
+        {
+            "height": {
+                "inch": "3.1"
+            }
+        },
+        {
+            "height": {
+                "millimetre": "55.0"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "7.5"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "15.0"
+            }
+        },
+        {
+            "depth": {
+                "millimetre": "15.0"
+            }
+        },
+        {
+            "width": {
+                "centimetre": "15.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "120.0"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "10.0"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "20.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "82376.0"
+            }
+        },
+        {
+            "height": {
+                "inch": "7.87"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "11.0"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "12.0"
+            }
+        },
+        {
+            "height": {
+                "millimetre": "6.35.0"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "18.0"
+            }
+        },
+        {
+            "height": {
+                "inch": "7.0"
+            }
+        },
+        {
+            "height": {
+                "inch": "1.57\u52a0\u71b1 4.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "1032.0"
+            }
+        },
+        {
+            "height": {
+                "inch": "2.99"
+            }
+        },
+        {
+            "item_weight": {
+                "kilogram": "10.0"
+            }
+        },
+        {
+            "width": {
+                "centimetre": "6.0"
+            }
+        },
+        {
+            "width": {
+                "inch": "6.9"
+            }
+        },
+        {
+            "height": {
+                "inch": "12.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "27.5"
+            }
+        },
+        {
+            "width": {
+                "centimetre": "12.4"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "470.0"
+            }
+        },
+        {
+            "height": {
+                "millimetre": "250.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "100.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "29.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "20.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "34.0"
+            }
+        },
+        {
+            "width": {
+                "millimetre": "52.0"
+            }
+        },
+        {
+            "height": {
+                "inch": "29.53"
+            }
+        },
+        {
+            "width": {
+                "centimetre": "23.6"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "42.0"
+            }
+        },
+        {
+            "width": {
+                "centimetre": "35.0"
+            }
+        },
+        {
+            "width": {
+                "inch": "15.0"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "9.5"
+            }
+        },
+        {
+            "width": {
+                "inch": "34.0"
+            }
+        },
+        {
+            "depth": {
+                "inch": "9.0"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "188"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "17.8"
+            }
+        },
+        {
+            "height": {
+                "millimetre": "170.0"
+            }
+        },
+        {
+            "item_weight": {
+                "kilogram": "1"
+            }
+        },
+        {
+            "height": {
+                "inch": "4.7"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "23.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "7.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "5.0"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "1400.0"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "15.6"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "100.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "14.5"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "150.0"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "18.6"
+            }
+        },
+        {
+            "width": {
+                "centimetre": "1200.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "270.0"
+            }
+        },
+        {
+            "height": {
+                "millimetre": "45.0"
+            }
+        },
+        {
+            "height": {
+                "millimetre": "170.0"
+            }
+        },
+        {
+            "height": {
+                "inch": "12.0"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "20.0"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "46.0"
+            }
+        },
+        {
+            "height": {
+                "inch": "5.25"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "36.0"
+            }
+        },
+        {
+            "item_weight": {
+                "ounce": "5.3"
+            }
+        },
+        {
+            "height": {
+                "inch": "5.51"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "480.0"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "18.8"
+            }
+        },
+        {
+            "width": {
+                "inch": "2.7"
+            }
+        },
+        {
+            "height": {
+                "inch": "0.4"
+            }
+        },
+        {
+            "depth": {
+                "millimetre": "90.0"
+            }
+        },
+        {
+            "depth": {
+                "inch": "7.87"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "35.0"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "47.0"
+            }
+        },
+        {
+            "height": {
+                "inch": "77.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "400.0"
+            }
+        },
+        {
+            "height": {
+                "inch": "6.25"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "88.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "25"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "280.7"
+            }
+        },
+        {
+            "height": {
+                "inch": "12.2"
+            }
+        },
+        {
+            "height": {
+                "inch": "6.5"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "180.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "396.0"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "15.0"
+            }
+        },
+        {
+            "depth": {
+                "inch": "6.0"
+            }
+        },
+        {
+            "item_weight": {
+                "kilogram": "4.7"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "9.3"
+            }
+        },
+        {
+            "depth": {
+                "inch": "15.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "100.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "100"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "2.75"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "8122376.0"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "9.0"
+            }
+        },
+        {
+            "height": {
+                "inch": "5.5"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "5.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "250.0"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "15.8"
+            }
+        },
+        {
+            "wattage": {
+                "watt": "50.0"
+            }
+        },
+        {
+            "depth": {
+                "inch": "1.6"
+            }
+        },
+        {
+            "width": {
+                "centimetre": "4.0"
+            }
+        },
+        {
+            "depth": {
+                "metre": "1.0"
+            }
+        },
+        {
+            "width": {
+                "inch": "9.0"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "6.8"
+            }
+        },
+        {
+            "width": {
+                "centimetre": "29.7"
+            }
+        },
+        {
+            "height": {
+                "millimetre": "280.0"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "27.0"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "9.0"
+            }
+        },
+        {
+            "height": {
+                "millimetre": "128.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "3.0"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "44.0"
+            }
+        },
+        {
+            "depth": {
+                "millimetre": "256.0"
+            }
+        },
+        {
+            "depth": {
+                "inch": "10.0"
+            }
+        },
+        {
+            "item_weight": {
+                "kilogram": "250.0"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "30.0"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "15.0"
+            }
+        },
+        {
+            "height": {
+                "inch": "9.2"
+            }
+        },
+        {
+            "item_weight": {
+                "kilogram": "90.0"
+            }
+        },
+        {
+            "depth": {
+                "inch": "0.78"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "50.0"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "10.6"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "12.0"
+            }
+        },
+        {
+            "height": {
+                "inch": "12.2"
+            }
+        },
+        {
+            "width": {
+                "centimetre": "17.3"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "9.5"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "47.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "81223"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "100.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "90.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "250.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "1"
+            }
+        },
+        {
+            "item_weight": {
+                "kilogram": "120.0"
+            }
+        },
+        {
+            "height": {
+                "millimetre": "176.2"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "8.8"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "22.6"
+            }
+        },
+        {
+            "item_weight": {
+                "milligram": "200.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "227.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "200.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "123.0"
+            }
+        },
+        {
+            "depth": {
+                "inch": "65.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "4.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "500.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "180.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "61.2"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "165.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "30.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "14.0"
+            }
+        },
+        {
+            "wattage": {
+                "watt": "1080.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "6"
+            }
+        },
+        {
+            "item_weight": {
+                "kilogram": "0.6"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "973"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "300.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "3.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "68.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "600.0"
+            }
+        },
+        {
+            "voltage": {
+                "volt": "5.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "35.0"
+            }
+        },
+        {
+            "item_weight": {
+                "milligram": "1.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "40.0"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "50.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "100.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "4.6"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "18.5"
+            }
+        },
+        {
+            "item_weight": {
+                "kilogram": "6.4"
+            }
+        },
+        {
+            "item_weight": {
+                "milligram": "250.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "50.0"
+            }
+        },
+        {
+            "item_weight": {
+                "milligram": "2000.0"
+            }
+        },
+        {
+            "item_weight": {
+                "milligram": "2,0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "2.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "13.5"
+            }
+        },
+        {
+            "item_weight": {
+                "kilogram": "150.0"
+            }
+        },
+        {
+            "item_weight": {
+                "kilogram": "0.8"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "1.0"
+            }
+        },
+        {
+            "height": {
+                "millimetre": "127.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "2009.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "100.0"
+            }
+        },
+        {
+            "item_weight": {
+                "kilogram": "60.0"
+            }
+        },
+        {
+            "item_weight": {
+                "milligram": "2000-0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "255.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "200.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "255.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "44.0"
+            }
+        },
+        {
+            "depth": {
+                "inch": "90.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "60.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "140.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "670"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "150.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "4.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "55.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "24.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "125"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "2.2"
+            }
+        }
+    ],
+    "ground_truths": [
+        {
+            "height": {
+                "inch": "21.0"
+            }
+        },
+        {
+            "width": {
+                "foot": "12.0"
+            }
+        },
+        {
+            "height": {
+                "millimetre": "350.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "3.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "70.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "6.3"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "100.0"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "19.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "250"
+            }
+        },
+        {
+            "width": {
+                "inch": "3.1"
+            }
+        },
+        {
+            "height": {
+                "millimetre": "55.0"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "7.5"
+            }
+        },
+        {
+            "width": {
+                "centimetre": "45.0"
+            }
+        },
+        {
+            "item_weight": {
+                "kilogram": "15"
+            }
+        },
+        {
+            "width": {
+                "inch": "0.4"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "250"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "10.0"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "28.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "0.0"
+            }
+        },
+        {
+            "width": {
+                "inch": "11.8"
+            }
+        },
+        {
+            "width": {
+                "centimetre": "9.2"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "12.0"
+            }
+        },
+        {
+            "depth": {
+                "millimetre": "80.0"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "18.0"
+            }
+        },
+        {
+            "height": {
+                "inch": "7.0"
+            }
+        },
+        {
+            "depth": {
+                "inch": "1.57"
+            }
+        },
+        {
+            "depth": {
+                "inch": "3.0"
+            }
+        },
+        {
+            "height": {
+                "inch": "1.69"
+            }
+        },
+        {
+            "height": {
+                "inch": "10.0"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "6.0"
+            }
+        },
+        {
+            "depth": {
+                "inch": "6.9"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "14.5"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "27.5"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "20.2"
+            }
+        },
+        {
+            "width": {
+                "centimetre": "470.0"
+            }
+        },
+        {
+            "height": {
+                "millimetre": "270.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "100"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "29.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "20.0"
+            }
+        },
+        {
+            "depth": {
+                "millimetre": "50.0"
+            }
+        },
+        {
+            "depth": {
+                "millimetre": "52.0"
+            }
+        },
+        {
+            "width": {
+                "inch": "55.11"
+            }
+        },
+        {
+            "width": {
+                "centimetre": "8.0"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "42.0"
+            }
+        },
+        {
+            "width": {
+                "centimetre": "35.0"
+            }
+        },
+        {
+            "depth": {
+                "inch": "25.0"
+            }
+        },
+        {
+            "width": {
+                "centimetre": "20.0"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "31.0"
+            }
+        },
+        {
+            "depth": {
+                "inch": "12.0"
+            }
+        },
+        {
+            "width": {
+                "centimetre": "114.0"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "17.8"
+            }
+        },
+        {
+            "height": {
+                "millimetre": "170.0"
+            }
+        },
+        {
+            "voltage": {
+                "volt": "11.1"
+            }
+        },
+        {
+            "width": {
+                "inch": "2.25"
+            }
+        },
+        {
+            "height": {
+                "inch": "7.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "7.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "520.0"
+            }
+        },
+        {
+            "width": {
+                "centimetre": "20.0"
+            }
+        },
+        {
+            "width": {
+                "centimetre": "4.1"
+            }
+        },
+        {
+            "width": {
+                "centimetre": "34.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "14.5"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "60.0"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "6.2"
+            }
+        },
+        {
+            "width": {
+                "centimetre": "150.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "270.0"
+            }
+        },
+        {
+            "height": {
+                "millimetre": "45.0"
+            }
+        },
+        {
+            "width": {
+                "millimetre": "73.0"
+            }
+        },
+        {
+            "height": {
+                "inch": "1.0"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "20.0"
+            }
+        },
+        {
+            "width": {
+                "centimetre": "30.0"
+            }
+        },
+        {
+            "height": {
+                "foot": "5.25"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "182.0"
+            }
+        },
+        {
+            "width": {
+                "inch": "5.3"
+            }
+        },
+        {
+            "width": {
+                "inch": "5.51"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "230.0"
+            }
+        },
+        {
+            "width": {
+                "centimetre": "18.0"
+            }
+        },
+        {
+            "width": {
+                "centimetre": "10.0"
+            }
+        },
+        {
+            "depth": {
+                "millimetre": "24.0"
+            }
+        },
+        {
+            "height": {
+                "millimetre": "375.0"
+            }
+        },
+        {
+            "width": {
+                "inch": "7.87"
+            }
+        },
+        {
+            "width": {
+                "centimetre": "27.0"
+            }
+        },
+        {
+            "width": {
+                "centimetre": "30.0"
+            }
+        },
+        {
+            "depth": {
+                "inch": "77.0"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "10.0"
+            }
+        },
+        {
+            "width": {
+                "inch": "9.6"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "88.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "1.5"
+            }
+        },
+        {
+            "item_weight": {
+                "pound": "282.0"
+            }
+        },
+        {
+            "width": {
+                "inch": "12.2"
+            }
+        },
+        {
+            "width": {
+                "inch": "6.5"
+            }
+        },
+        {
+            "width": {
+                "centimetre": "120.0"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "50.0"
+            }
+        },
+        {
+            "width": {
+                "centimetre": "8.0"
+            }
+        },
+        {
+            "depth": {
+                "inch": "8.0"
+            }
+        },
+        {
+            "width": {
+                "millimetre": "1200.0"
+            }
+        },
+        {
+            "width": {
+                "inch": "1.5"
+            }
+        },
+        {
+            "depth": {
+                "inch": "15.0"
+            }
+        },
+        {
+            "depth": {
+                "millimetre": "150.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "100"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "11.5"
+            }
+        },
+        {
+            "depth": {
+                "metre": "3.0"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "15.0"
+            }
+        },
+        {
+            "height": {
+                "inch": "4.72"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "5.0"
+            }
+        },
+        {
+            "item_weight": {
+                "pound": "250.0"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "15.8"
+            }
+        },
+        {
+            "width": {
+                "millimetre": "151.0"
+            }
+        },
+        {
+            "height": {
+                "inch": "1.6"
+            }
+        },
+        {
+            "height": {
+                "inch": "8.9"
+            }
+        },
+        {
+            "depth": {
+                "inch": "80.2"
+            }
+        },
+        {
+            "depth": {
+                "inch": "4.3"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "25.0"
+            }
+        },
+        {
+            "width": {
+                "centimetre": "42.0"
+            }
+        },
+        {
+            "height": {
+                "millimetre": "280.0"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "27.0"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "90.0"
+            }
+        },
+        {
+            "width": {
+                "millimetre": "128.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "16.0"
+            }
+        },
+        {
+            "height": {
+                "centimetre": "44.0"
+            }
+        },
+        {
+            "depth": {
+                "millimetre": "265.0"
+            }
+        },
+        {
+            "depth": {
+                "inch": "8.0"
+            }
+        },
+        {
+            "height": {
+                "foot": "2.0"
+            }
+        },
+        {
+            "width": {
+                "centimetre": "40.0"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "19.5"
+            }
+        },
+        {
+            "width": {
+                "inch": "0.7"
+            }
+        },
+        {
+            "item_weight": {
+                "kilogram": "2"
+            }
+        },
+        {
+            "width": {
+                "inch": "0.78"
+            }
+        },
+        {
+            "item_weight": {
+                "ounce": "1.7"
+            }
+        },
+        {
+            "width": {
+                "centimetre": "32.0"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "12.0"
+            }
+        },
+        {
+            "height": {
+                "inch": "1.93"
+            }
+        },
+        {
+            "width": {
+                "centimetre": "17.3"
+            }
+        },
+        {
+            "depth": {
+                "centimetre": "9.5"
+            }
+        },
+        {
+            "depth": {
+                "inch": "16.5"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "227.0"
+            }
+        },
+        {
+            "voltage": {
+                "265.0] volt": "[85.0,"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "500"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "250.0"
+            }
+        },
+        {
+            "item_weight": {
+                "kilogram": "25.0"
+            }
+        },
+        {
+            "item_weight": {
+                "kilogram": "85.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "200.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "8.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "22.6"
+            }
+        },
+        {
+            "item_weight": {
+                "milligram": "50.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "150.0"
+            }
+        },
+        {
+            "item_weight": {
+                "microgram": "200.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "104.7"
+            }
+        },
+        {
+            "item_weight": {
+                "kilogram": "11.5"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "6.4"
+            }
+        },
+        {
+            "item_weight": {
+                "kilogram": "1"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "180.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "61.2"
+            }
+        },
+        {
+            "voltage": {
+                "265.0] volt": "[85.0,"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "20.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "315.0"
+            }
+        },
+        {
+            "wattage": {
+                "horsepower": "1080.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "6"
+            }
+        },
+        {
+            "item_weight": {
+                "kilogram": "0.6"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "100"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "183"
+            }
+        },
+        {
+            "item_weight": {
+                "fluid ounce": "1.01"
+            }
+        },
+        {
+            "item_volume": {
+                "fluid ounce": "0.68"
+            }
+        },
+        {
+            "item_weight": {
+                "pound": "1.3"
+            }
+        },
+        {
+            "voltage": {
+                "volt": "48.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "535.0"
+            }
+        },
+        {
+            "item_weight": {
+                "milligram": "1.0"
+            }
+        },
+        {
+            "item_weight": {
+                "pound": "8183976.0"
+            }
+        },
+        {
+            "wattage": {
+                "watt": "250.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "211"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "4.6"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "18.5"
+            }
+        },
+        {
+            "item_weight": {
+                "ounce": "1.5"
+            }
+        },
+        {
+            "item_weight": {
+                "milligram": "250.0"
+            }
+        },
+        {
+            "item_weight": {
+                "ounce": "7"
+            }
+        },
+        {
+            "item_weight": {
+                "milligram": "2000.0"
+            }
+        },
+        {
+            "item_weight": {
+                "milligram": "2000.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "2.0"
+            }
+        },
+        {
+            "item_weight": {
+                "milligram": "6.2"
+            }
+        },
+        {
+            "item_weight": {
+                "kilogram": "160.0"
+            }
+        },
+        {
+            "item_weight": {
+                "pound": "1.76"
+            }
+        },
+        {
+            "maximum_weight_recommendation": {
+                "pound": "15"
+            }
+        },
+        {
+            "wattage": {
+                "watt": "4.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "200.0"
+            }
+        },
+        {
+            "wattage": {
+                "watt": "100.0"
+            }
+        },
+        {
+            "item_weight": {
+                "kilogram": "60.0"
+            }
+        },
+        {
+            "item_weight": {
+                "pound": "2000.0"
+            }
+        },
+        {
+            "item_weight": {
+                "pound": "255.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "200.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "368"
+            }
+        },
+        {
+            "maximum_weight_recommendation": {
+                "pound": "44.0"
+            }
+        },
+        {
+            "voltage": {
+                "265.0] volt": "[185.0,"
+            }
+        },
+        {
+            "item_weight": {
+                "milligram": "400.0"
+            }
+        },
+        {
+            "maximum_weight_recommendation": {
+                "pound": "450"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "670.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "303"
+            }
+        },
+        {
+            "item_weight": {
+                "milligram": "90.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "55.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "24.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "125.0"
+            }
+        },
+        {
+            "item_weight": {
+                "gram": "61.0"
+            }
+        }
+    ]
+}
